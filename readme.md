@@ -30,13 +30,12 @@ open_to: Collaborations & Projects
 
 ### <img src="https://img.shields.io/badge/Quick_Facts-0D1117?style=for-the-badge&logo=readme&logoColor=white" />
 
+```yaml
 Currently building personal projects
-
 Always exploring new technologies
-
 Interested in scalable systems
-
 Open to collaborating on anything cool
+```
 
 </td>
 </tr>
